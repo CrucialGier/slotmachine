@@ -1,4 +1,23 @@
 img {
-  width: 300px;
-  
+  width: 100%;
+
+}
+
+#start {
+  color: purple;
+}
+
+#start:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#end {
+  display: none;
+  color: purple;
+}
+
+#end:hover {
+  text-decoration: underline;
+  cursor: pointer;
 }
